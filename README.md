@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 JORJA PORTFLIO WEBSITE
 
 Decided to experiment my front end skills by designing a music artist website. To be honest, I am simply winging it, might add other inspirations to it. 
@@ -27,6 +28,8 @@ Features
 5. Jorja Merch:
 - Basically apparels that are on sale to fans. A link to such a online site.
 =======
+=======
+>>>>>>> queries
 #JORJA MUSIC WEBSITE
 
 Decided to experiment my front end skills by designing a music artist website
@@ -54,5 +57,8 @@ Music: Listen to some of her songs.
     On every page, as we continue to develop this, we can add simple shots of the artist and then make the layout minimalistic (not too much wording) - this will be effective. 
 
     Make the website play random song by jorja or featuring jorja
+<<<<<<< HEAD
 >>>>>>> d4e51fa (changed the website title, not sure what server.js is for)
+=======
+>>>>>>> queries
     
