@@ -1,4 +1,4 @@
-##JORJA MUSIC WEBSITE
+#JORJA MUSIC WEBSITE
 
 Decided to experiment my front end skills by designing a music artist website
 Want to make it simple (nothing fancy for a start). The artist of choice is Jorja Alice Smith. 
